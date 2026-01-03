@@ -34,3 +34,5 @@ purposes only, subject to the following conditions:
 By using this application, you agree to all terms of this license.
 
 If you do not agree with these terms, do not use this software.
+
+<img width="549" height="776" alt="Capture d&#39;écran 2026-01-03 131042" src="https://github.com/user-attachments/assets/dee3a7a0-b93a-4640-9a2e-d8b3538ebabb" />
