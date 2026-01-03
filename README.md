@@ -28,11 +28,6 @@ purposes only, subject to the following conditions:
    - Any damage caused by incompatible or third-party mods.
    - Issues resulting from misuse of the application.
 
-5. Minecraft is a trademark of Mojang Studios.
-   This project is NOT affiliated with, endorsed by, or sponsored by Mojang Studios.
-
-By using this application, you agree to all terms of this license.
-
-If you do not agree with these terms, do not use this software.
+   Thanks for reading...
 
 <img width="549" height="776" alt="Capture d&#39;écran 2026-01-03 131042" src="https://github.com/user-attachments/assets/dee3a7a0-b93a-4640-9a2e-d8b3538ebabb" />
